@@ -27,3 +27,4 @@
 - **POST** `/auth/register`: Registro de un nuevo usuario (sin autenticación).
 - **POST** `/auth/login`: Inicio de sesión y generación de JWT (sin autenticación).
 
+ME GUSTO MAS PHP ;D
